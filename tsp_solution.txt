@@ -1,0 +1,60 @@
+Path: [2, 0, 1, 3, 4, 2]
+Total Jarak: 2790.00, Total Energi Digunakan : 837.00
+
+Path: [2, 0, 3, 1, 4, 2]
+Total Jarak: 2790.00, Total Energi Digunakan : 837.00
+
+Path: [2, 0, 3, 4, 1, 2]
+Total Jarak: 3156.00, Total Energi Digunakan : 946.80
+
+Path: [2, 0, 4, 1, 3, 2]
+Total Jarak: 2334.00, Total Energi Digunakan : 700.20
+
+Path: [2, 0, 4, 3, 1, 2]
+Total Jarak: 2076.00, Total Energi Digunakan : 622.80
+
+Path: [2, 1, 0, 3, 4, 2]
+Total Jarak: 3156.00, Total Energi Digunakan : 946.80
+
+Path: [2, 1, 0, 4, 3, 2]
+Total Jarak: 2700.00, Total Energi Digunakan : 810.00
+
+Path: [2, 1, 3, 0, 4, 2]
+Total Jarak: 2076.00, Total Energi Digunakan : 622.80
+
+Path: [2, 1, 3, 4, 0, 2]
+Total Jarak: 2076.00, Total Energi Digunakan : 622.80
+
+Path: [2, 1, 4, 0, 3, 2]
+Total Jarak: 2700.00, Total Energi Digunakan : 810.00
+
+Path: [2, 1, 4, 3, 0, 2]
+Total Jarak: 3156.00, Total Energi Digunakan : 946.80
+
+Path: [2, 3, 0, 4, 1, 2]
+Total Jarak: 2700.00, Total Energi Digunakan : 810.00
+
+Path: [2, 3, 1, 0, 4, 2]
+Total Jarak: 2334.00, Total Energi Digunakan : 700.20
+
+Path: [2, 3, 1, 4, 0, 2]
+Total Jarak: 2334.00, Total Energi Digunakan : 700.20
+
+Path: [2, 3, 4, 0, 1, 2]
+Total Jarak: 2700.00, Total Energi Digunakan : 810.00
+
+Path: [2, 4, 0, 1, 3, 2]
+Total Jarak: 2334.00, Total Energi Digunakan : 700.20
+
+Path: [2, 4, 0, 3, 1, 2]
+Total Jarak: 2076.00, Total Energi Digunakan : 622.80
+
+Path: [2, 4, 1, 3, 0, 2]
+Total Jarak: 2790.00, Total Energi Digunakan : 837.00
+
+Path: [2, 4, 3, 0, 1, 2]
+Total Jarak: 3156.00, Total Energi Digunakan : 946.80
+
+Path: [2, 4, 3, 1, 0, 2]
+Total Jarak: 2790.00, Total Energi Digunakan : 837.00
+
